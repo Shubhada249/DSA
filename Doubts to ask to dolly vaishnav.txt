@@ -1,0 +1,8 @@
+1.Does Scalar Academy provide referrals for the companies you want to apply to?
+2.Standard Questions-other questions
+3.every product-based company asks about System design?
+4.Till what point solution should be optimised?Next greater element: using stack:O(n) O(n)  but another solution:O(n) O(1)
+5. apn ji technology use krun project kelay tya technology vr che sgle question ale pahijet ki tya technology mdl jevd apn implement kely tevd sufficient ahe
+6. Self preparation krn better ki academy join krn?
+
+ 

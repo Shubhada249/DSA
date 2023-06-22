@@ -1,0 +1,2 @@
+1. map use kelay tit prt deque ne TC reduce hou shkte
+2. sliding window mde each subarray mdl maximum & minimum element maintain krnyasathi deque use krtat

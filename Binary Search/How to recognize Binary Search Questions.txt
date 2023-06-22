@@ -1,0 +1,5 @@
+1. When array is sorted
+2. When we want continuos elements from sorted array
+3. When ans lies in specific range n based on which we can reduce our search space
+4. result of pow of number
+5. median of two sorted array

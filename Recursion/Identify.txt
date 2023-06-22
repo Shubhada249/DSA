@@ -1,0 +1,2 @@
+1. If a question is saying to repeat the same process again and again.
+2. If f(n) depends on f(n-1)

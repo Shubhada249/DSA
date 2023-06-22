@@ -1,0 +1,3 @@
+1. gol phirtoy vector in question/vector in ans[Queue will be of indexes asnar] mdn ashi feeling yete
+2. 1-n jatoy prt 1-n jatoy.......
+3. brute force apply kelyavr kahi indexes of vector na visit kraychi grj nstya ani gol phirlyachi feeling tit queue use kraychi
