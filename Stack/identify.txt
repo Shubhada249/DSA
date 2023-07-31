@@ -1,3 +1,4 @@
 1. You will find connection between Last and first words in explaination
 2. operations performed by only one end
 3. 4 base problems involved in question NSL,NSR,NGL,NGR
+4. To store history
